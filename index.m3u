@@ -1,8 +1,52 @@
-Fox 1
+#EXTM3U
+
+#LOKAL CHANNEL
+#EXTINF:-1,LOCAL TVONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+
+#EXTINF:-1,LOCAL Indosiar
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+
+#EXTINF:-1,LOCAL MNC TV
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+
+#EXTINF:-1,LOCAL RCTI
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+
+#EXTINF:-1,LOCAL ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+
+#EXTINF:-1,LOCAL TRANS 7
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
+
+#EXTINF:-1,LOCAL TRANS TV
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+
+#EXTINF:-1,LOCAL METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,LOCAL KOMPAS TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1574444931/ei/I8vXXcP6LoWN3LUPr5evgAU/ip/36.80.143.241/id/e1GRWeLfBPM.1/source/yt_live_broadcast/requiressl/yes/tx/23845304/txs/23845280%2C23845281%2C23845304/hfr/1/maudio/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgYXqaBAUfYP4hly5vzMSxehiPiO05_iKi9CDQ3fiWvAQCIAg_agig0mdJNw-19B7T0nPT370jN6PBnjvH4tzvVkAn/file/index.m3u8
+
+#EXTINF:-1,LOCAL TVRI
+http://id1.indostreamingtv.com/live/tvri/index.m3u8
+
+#EXTINF:-1,LOCAL NET TV
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+
+#EXTINF:-1,LOCAL RTV
+http://rr2.dens.tv/s/s12/index.m3u8
+
+#EXTINF:-1,LOCAL SCTV
+https://kmklive-lh.akamaihd.net/i/sctv_ta_regular@94479/index_720_av-p.m3u8
+
+#FOX CHANNEL
+
+#EXTINF:-1,SPORT Fox 1
 http://27.254.149.109:8081/tumlive/Foxsport1/chunks.m3u8
 
-Fox 2
+#EXTINF:-1,SPORT Fox 2
 http://27.254.149.109:8081/tumlive/Foxsport2/chunks.m3u8
 
-Fox 3
+#EXTINF:-1,SPORT Fox 3
 http://27.254.149.109:8081/tumlive/Foxsport3/chunks.m3u8
