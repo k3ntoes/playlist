@@ -26,7 +26,7 @@ http://id2.indostreamingtv.com/live/tv33/index.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1,LOCAL KOMPAS TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1574444931/ei/I8vXXcP6LoWN3LUPr5evgAU/ip/36.80.143.241/id/e1GRWeLfBPM.1/source/yt_live_broadcast/requiressl/yes/tx/23845304/txs/23845280%2C23845281%2C23845304/hfr/1/maudio/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgYXqaBAUfYP4hly5vzMSxehiPiO05_iKi9CDQ3fiWvAQCIAg_agig0mdJNw-19B7T0nPT370jN6PBnjvH4tzvVkAn/file/index.m3u8
+https://www.youtube.com/get_video_info?html5=1&video_id=e1GRWeLfBPM&cpn=G2x19RCLqEQmxCGk&eurl&el=embedded&hl=id_ID&sts=18222&lact=5&c=WEB_EMBEDDED_PLAYER&cver=20191122&cplayer=UNIPLAYER&cbr=Chrome&cbrver=78.0.3904.108&cos=Windows&cosver=10.0&width=560&height=315&authuser=0&ei=opfYXc39KtK11Abgz7GoCA&iframe=1&embed_config=%7B%7D&ancestor_origins=file%3A%2F%2F
 
 #EXTINF:-1,LOCAL TVRI
 http://id1.indostreamingtv.com/live/tvri/index.m3u8
