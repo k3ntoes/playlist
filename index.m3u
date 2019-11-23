@@ -2,7 +2,7 @@
 
 #LOKAL CHANNEL
 #EXTINF:-1,LOCAL TVONE
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+https://www.youtube.com/embed/M599sGU_BU8
 
 #EXTINF:-1,LOCAL Indosiar
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
@@ -32,7 +32,7 @@ https://www.youtube.com/get_video_info?html5=1&video_id=e1GRWeLfBPM&cpn=G2x19RCL
 http://id1.indostreamingtv.com/live/tvri/index.m3u8
 
 #EXTINF:-1,LOCAL NET TV
-http://id2.indostreamingtv.com/live/nettv/index.m3u8
+https://www.youtube.com/embed/S4wV8FyZOBY
 
 #EXTINF:-1,LOCAL RTV
 http://rr2.dens.tv/s/s12/index.m3u8
